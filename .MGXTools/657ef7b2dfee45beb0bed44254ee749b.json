@@ -2,7 +2,7 @@
     "tabs": {
         "00": {
             "tab_id": "00",
-            "cwd": "/workspace",
+            "cwd": "/workspace/springboot-trie",
             "observer": {
                 "block": "Terminal",
                 "uuid": "66f013ed-57d5-4f85-8cbc-98aada490ad6",
