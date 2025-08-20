@@ -1,3 +1,4 @@
+package com.example.trie;
 import java.util.HashMap;
 import java.util.Map;
 
